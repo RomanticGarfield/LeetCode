@@ -1,7 +1,7 @@
 ﻿// Copyright 2018 Cocoon Psn.
 // Author: Mr_Garfield
 // LeetCode674 Longest continous increasing subsequence
- 
+
 int findLengthOfLCIS(vector<int>& nums) {
     if(nums.size() == 0)
         return 0;
